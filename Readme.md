@@ -7,3 +7,11 @@
   - Functions
   - Arrays
 - Object Oriented Programming (OOP)
+  - Classes and Objects
+  - Inheritance
+  - Polymorphism
+  - Abstraction
+  - Encapsulation
+  - Exception Handling
+  - File Input/Output
+  - Java Collections Framework
