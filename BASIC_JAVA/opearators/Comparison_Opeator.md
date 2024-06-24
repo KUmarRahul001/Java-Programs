@@ -1,3 +1,3 @@
 # Comparison Operator
 
-    - Definition  
+# Definition  
